@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pesagem
+comment1.params=
+comment1.target=void\ MostrarNome()
+comment2.params=
+comment2.target=void\ MostrarIdade()
+comment3.params=
+comment3.target=void\ MostrarPeso()
+comment4.params=
+comment4.target=void\ MostrarAltura()
+comment5.params=
+comment5.target=void\ CalculoIMC()
+numComments=6
