@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=controleAtendimento
+comment1.params=caixa
+comment1.target=controleAtendimento(int)
+comment2.params=
+comment2.target=void\ proximaSenha()
+numComments=3
